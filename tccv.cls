@@ -116,8 +116,9 @@
     \faEnvelope  & \href{mailto:#2}{#2}\smallskip\\
     \faLinkedin  & \href{https://#3}{#3}\smallskip\\
     \faTwitter   & \href{https://#4}{#4}\smallskip\\
-    \faGithub    & \href{https://#5}{#5}\smallskip\\
-    \end{tabularx}}}
+	\end{tabularx}}}
+%    \faGithub    & \href{https://#5}{#5}\smallskip\\
+%    \end{tabularx}}}
 
 % Every \item can be followed by one or more paragraphs
 % of description:
